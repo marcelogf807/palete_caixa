@@ -3,3 +3,5 @@
 *.xlsv
 *.xls
 .venv
+*.pdf
+*.pptx
