@@ -7,3 +7,5 @@
 *.pptx
 *.env
 __pycache__
+solucoes_salvas
+AWS_pass.txt
