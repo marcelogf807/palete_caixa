@@ -60,4 +60,4 @@ else:
     elif pagina == 'Alterar Status':
             pagina_alterar_status() 
     elif pagina == "Modelo Palete-Caixa":
-         pagina_otimizacao     
+         pagina_otimizacao()
